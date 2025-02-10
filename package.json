@@ -15,5 +15,14 @@
     "url": "https://github.com/Sergeyshinakov/Monovision_studio/issues"
   },
   "homepage": "https://github.com/Sergeyshinakov/Monovision_studio#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "gulp": "^5.0.0",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^3.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^6.0.0"
+  }
 }
